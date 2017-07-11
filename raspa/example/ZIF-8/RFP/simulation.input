@@ -1,0 +1,25 @@
+SimulationType                 MonteCarlo
+NumberOfCycles                 10000
+NumberOfInitializationCycles   5000
+PrintEvery                     1000
+RestartFile                    no
+
+Forcefield                     UFF
+CutOff                         12.00
+
+Framework                      0
+FrameworkName                  ZIF-8
+UnitCells                      2 2 2
+ExternalTemperature            298.0
+ExternalPressure               10000000.0
+
+Movies                         yes
+WriteMoviesEvery               1000
+
+Component 0 MoleculeName               RFP
+            MoleculeDefinition         Drugs
+            TranslationProbability     1.0
+            RotationProbability        1.0
+            ReinsertionProbability     1.0
+            SwapProbability            1.0
+            CreateNumberOfMolecules    0

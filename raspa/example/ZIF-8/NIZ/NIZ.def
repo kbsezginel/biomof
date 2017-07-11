@@ -1,0 +1,52 @@
+# critical constants: Temperature [T], Pressure [Pa], and Acentric factor [-]
+550.0000
+2600000.0
+0.3800
+# Number of Atoms
+17
+# Number of Groups
+1
+# NIZ-group
+rigid
+# Number of Atoms
+17
+# Atomic Positions
+ 0  C_drg -1.2706 -0.2800 0.4197
+ 1  C_drg 0.2033 -0.0569 0.1980
+ 2  N_drg 2.9922 0.2162 -0.1866
+ 3  O_drg -1.7211 -1.3306 0.8808
+ 4  C_drg 0.8030 1.2146 0.1080
+ 5  N_drg -2.0901 0.7640 0.0526
+ 6  C_drg 2.1932 1.2912 -0.0835
+ 7  N_drg -3.4876 0.6229 0.0827
+ 8  C_drg 2.4139 -0.9947 -0.0857
+ 9  C_drg 1.0380 -1.1862 0.1123
+10  H_drg 0.2139 2.1382 0.2167
+11  H_drg 2.6861 2.2778 -0.1507
+12  H_drg -3.6771 -0.3844 -0.0591
+13  H_drg 3.0878 -1.8663 -0.1656
+14  H_drg 0.5952 -2.1886 0.2059
+15  H_drg -1.7404 1.4847 -0.5830
+16  H_drg -3.7988 0.8029 1.0506
+# Chiral centers Bond  BondDipoles Bend  UrayBradley InvBend  Torsion Imp. Torsion Bond/Bond Stretch/Bend Bend/Bend Bend/Torsion IntraVDW IntraCoulomb
+               0   17            0    0            0       0            0             0            0         0         0       0        0            0
+# Bond stretch: atom n1-n2, type, parameters
+ 0  1 RIGID_BOND
+ 0  3 RIGID_BOND
+ 0  5 RIGID_BOND
+ 1  4 RIGID_BOND
+ 1  9 RIGID_BOND
+ 2  6 RIGID_BOND
+ 2  8 RIGID_BOND
+ 4  6 RIGID_BOND
+ 4 10 RIGID_BOND
+ 5  7 RIGID_BOND
+ 5 15 RIGID_BOND
+ 6 11 RIGID_BOND
+ 7 12 RIGID_BOND
+ 7 16 RIGID_BOND
+ 8  9 RIGID_BOND
+ 8 13 RIGID_BOND
+ 9 14 RIGID_BOND
+# Number of config moves
+0
