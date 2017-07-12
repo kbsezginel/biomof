@@ -19,15 +19,15 @@ Dimethyloxalylglycine is a cancer treatment drug, proposed to inhibit O<sub>2</s
 
 ## Methods
 
-All drug molecules are optimized using [ORCA][orca] with B3LYP basis set.
+All drug molecules are optimized using [ORCA][orca] with B3LYP basis set. Both experimental and ideal configurations for drugs have been initially considered when available. Eventually, the minimum energy configuration was selected for all drug molecules. Here the sources for initial structure and selected configuration have been provided:
 
-|Drug|Source|  |
-|:---|:-----|:-|
-|ETB |      |  |
-|NIZ |      |  |
-|RFP |      |  |
-|PZA |      |  |
-|DMOG|      |  |
+|Drug|Initial Structure|Source      |
+|:---|:----------------|:-----------|
+|ETB |CCDC: [GEJHOT]   |Experimental|
+|NIZ |RSCB: [NIZ]      |Ideal       |
+|RFP |RSBP: [RFP]      |Experimental|
+|PZA |RSCB: [PZA]      |Experimental|
+|DMOG|Chemdraw         |Ideal       |
 
 ------------------------------------------------------------------------
 [ethambutol-wiki]: https://en.wikipedia.org/wiki/Ethambutol
@@ -36,3 +36,7 @@ All drug molecules are optimized using [ORCA][orca] with B3LYP basis set.
 [pyrazinamide-wiki]: https://en.wikipedia.org/wiki/Pyrazinamide
 [dmog-pubchem]: https://pubchem.ncbi.nlm.nih.gov/substance/329798774
 [orca]: https://orcaforum.cec.mpg.de/
+[GEJHOT]: https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=gejhot
+[NIZ]: https://www4.rcsb.org/ligand/NIZ
+[PZA]: https://www4.rcsb.org/ligand/PZA
+[RFP]: https://www4.rcsb.org/ligand/RFP
