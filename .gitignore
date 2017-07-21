@@ -1,5 +1,8 @@
 # User
+dev
 results/data
+drugs/conformers/conformer_generator.log
+drugs/conformers/conformer_generator.warn
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
