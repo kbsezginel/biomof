@@ -4,22 +4,6 @@
 import os
 
 
-def read_mol2(mol2_path):
-    """
-    Read mol2 format atomic coordinates and bonds
-    """
-    with open(mol2_path, 'r') as mol2:
-        mol2_lines = mol2.readlines()
-
-    coor_idx = mol2_lines.index('@<TRIPOS>ATOM\n')
-    bonds_idx = mol2_lines.index('@<TRIPOS>BOND\n')
-    bonds_end = mol2_lines.index('@<TRIPOS>SUBSTRUCTURE\n')
-    elements = [line.split()[1] for line in mol2_lines[coor_idx + 1:bonds_idx]]
-    coordinates = [[float(i) for i in line.split()[2:5]] for line in mol2_lines[coor_idx + 1:bonds_idx]]
-    bonds = [[int(i) - 1 for i in line.split()[1:3]] for line in mol2_lines[bonds_idx + 1:bonds_end]]
-    return {'coordinates': coordinates, 'elements': elements, 'bonds': bonds}
-
-
 def write_raspa_molecule(molecule, name='molecule', code='drg', save=None, properties=None):
     """
     Write RASPA molecule definition file (rigid molecule):
@@ -55,7 +39,7 @@ def write_raspa_molecule(molecule, name='molecule', code='drg', save=None, prope
             "# Number of Atoms\n%i\n# Atomic Positions\n" % len(elements)
         )
         for i, (atom, coor) in enumerate(zip(elements, coordinates)):
-            rm.write('%2i %2s_%3s %5.4f %5.4f %5.4f\n' % (i, atom, code, coor[0], coor[1], coor[2]))
+            rm.write('%2i %2s_%3s % 5.4f % 5.4f % 5.4f\n' % (i, atom, code, coor[0], coor[1], coor[2]))
 
         rm.write(
             "# Chiral centers Bond  BondDipoles Bend  UrayBradley InvBend  Torsion Imp." +
