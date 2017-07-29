@@ -3,6 +3,10 @@ dev
 results/data
 drugs/conformers/conformer_generator.log
 drugs/conformers/conformer_generator.warn
+drugs/conformers/DMOG-conformers-RASPA/
+drugs/conformers/DMOG-conformers/
+drugs/conformers/source
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
