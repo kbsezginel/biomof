@@ -1,18 +1,19 @@
 import os
 
 
-def replace_lines(file_path, idx=(0, 1), new_lines=['Hello!\n'], dest=None):
-    """ 
-    Replace lines between given indices with new given lines 
+def replace_lines(file_path, idx=[0], new_lines=['Hello!\n'], dest=None):
+    """
+    Replace lines in given indices with new given lines
     Indexing:
-     - to change line 5, use -> idx=(4, 5) 
+     - to change line 5, use -> idx=[4]
      - to change line 2 and 3 use -> idx=(1, 3)
     """
     with open(file_path, 'r') as f:
         lines = f.readlines()
 
-    if (idx[1] - idx[0]) == len(new_lines):
-        lines[idx[0]:idx[1]] = new_lines
+    if len(idx) == len(new_lines):
+        for i, nl in zip(idx, new_lines):
+            lines[i] = nl
 
         if dest is None:
             dest = os.path.split(file_path)[0]
@@ -23,4 +24,4 @@ def replace_lines(file_path, idx=(0, 1), new_lines=['Hello!\n'], dest=None):
             for line in lines:
                 nf.write(line)
     else:
-        print('Requested indices do not match given number of lines!!!')   
+        print('Requested indices do not match given number of lines!!!')
