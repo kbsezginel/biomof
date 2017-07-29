@@ -8,6 +8,7 @@ from ccdc.descriptors import MolecularDescriptors
 from raspa_molecule import write_raspa_molecule
 from raspa_input import write_raspa_file
 from replace_lines import replace_lines
+from write_soap import write_soap
 
 
 parser = argparse.ArgumentParser(
@@ -43,6 +44,8 @@ parser.add_argument('--unitcell', '-uc', metavar='', nargs=3,  default=[1, 1, 1]
                     help="Unit cell packing for RASPA (default: 1 1 1)")
 parser.add_argument('--source', '-s', metavar='', type=str, default=r'source',
                     help="Source files directory for RASPA (default: ./source)")
+parser.add_argument('--soap', action='store_true', default=False,
+                    help="create xyz files for SOAP (default: False)")
 parser.add_argument('--nominimise', '-nm', action='store_true', default=False,
                     help="Don't run minimisation on conformers (default: False)")
 parser.add_argument('--nocleanup', '-nc', action='store_true', default=False,
@@ -138,6 +141,9 @@ if args.raspa:
             write_raspa_molecule(molecule, save=raspa_dir, name=conf_name)
 
     print('Done!\n')
+
+if args.soap:
+    write_soap(conformers_mol, mol_name, soap='soap.xyz', sort_key='header')
 
 # Cleanup log and warn files -----------------------------------------------------------------------
 if args.nocleanup:
