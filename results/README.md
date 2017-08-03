@@ -32,10 +32,10 @@ DMOG uptakes in IRMOF-1 and RUFMUA were calculated for all these conformers:
 ![alt_text][RUFMUA-DMOG]
 
 -------------------------------------------------------------------------
-[ZIF-8-uptake]: https://goo.gl/Qt5ZVF
+[ZIF-8-uptake]: https://goo.gl/d8ttyW
 [screening-1]: https://goo.gl/AAv5Zf
 [MOF-5-PARHEW]: https://goo.gl/r7jPNd
 [CoRE]: http://pubs.acs.org/doi/abs/10.1021/cm502594j
 [DMOG-conformers]: https://goo.gl/FyDE9a
-[IRMOF-1-DMOG]: https://goo.gl/odopfU
-[RUFMUA-DMOG]: https://goo.gl/muRpdv
+[IRMOF-1-DMOG]: https://goo.gl/UNV5WG
+[RUFMUA-DMOG]: https://goo.gl/MdsXP3
