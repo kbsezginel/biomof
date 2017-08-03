@@ -16,8 +16,26 @@ Drug uptakes have been calculated at 298 K for ZIF-8 using RASPA to estimate max
 
 ![alt_text][ZIF-8-uptake]
 
+## DMOG Conformers
+Initially 100 conformers for DMOG have been generated using CSD Python API. Then RASPA *.def* files and simulation input files were generated using the command line interface given in this repository. Below, 50 of these conformers are shown:
+
+![alt_text][DMOG-conformers]
+
+DMOG uptakes in IRMOF-1 and RUFMUA were calculated for all these conformers:
+
+**IRMOF-1**
+
+![alt_text][IRMOF-1-DMOG]
+
+**RUFMUA**
+
+![alt_text][RUFMUA-DMOG]
+
 -------------------------------------------------------------------------
 [ZIF-8-uptake]: https://goo.gl/Qt5ZVF
 [screening-1]: https://goo.gl/AAv5Zf
 [MOF-5-PARHEW]: https://goo.gl/r7jPNd
 [CoRE]: http://pubs.acs.org/doi/abs/10.1021/cm502594j
+[DMOG-conformers]: https://goo.gl/FyDE9a
+[IRMOF-1-DMOG]: https://goo.gl/odopfU
+[RUFMUA-DMOG]: https://goo.gl/muRpdv
