@@ -1,5 +1,6 @@
 import os
 import glob
+import yaml
 import shutil
 import argparse
 from ccdc import io
@@ -36,11 +37,13 @@ parser.add_argument('conformers', type=int, help='Number of conformers')
 # Optional arguments
 parser.add_argument('--format', '-f', default='mol', type=str, metavar='',
                     help="File format used to save molecule files (default: mol)")
+parser.add_argument('--log', '-l', action='store_true', default=False,
+                    help="Save 'log.yml' for conformer scores  (default: False)")
 parser.add_argument('--raspa', '-r', action='store_true', default=False,
                     help="create .def files for RASPA (default: False)")
 parser.add_argument('--initialize', '-i', action='store_true', default=False,
-                    help="Initialize files for a RASPA simulation (default: False)")
-parser.add_argument('--unitcell', '-uc', metavar='', nargs=3,  default=[1, 1, 1], type=int,
+                    help="Initialize files for RASPA (default: False)")
+parser.add_argument('--unitcell', '-uc', metavar='', nargs=3, default=[1, 1, 1], type=int,
                     help="Unit cell packing for RASPA (default: 1 1 1)")
 parser.add_argument('--source', '-s', metavar='', type=str, default=r'source',
                     help="Source files directory for RASPA (default: ./source)")
@@ -93,16 +96,22 @@ else:
     print('Minimising molecular geometry using Tripos force field...')
     molecule_minimiser = conformer.MoleculeMinimiser()                   # Uses Tripos force field
     min_conformers = []
+    log_data = {}
     for conf_idx, conf in enumerate(conformers):
         score, rmsd = conf.normalised_score, conf.rmsd()                 # Conformer score and RMSD
         min_conf = molecule_minimiser.minimise(conf.molecule)            # Minimise conformer
         min_conformers.append(min_conf)                                  # Add to list
         min_rmsd = round(MolecularDescriptors.rmsd(mol, min_conf), 3)    # Minimized RMSD (!!this method gives different results compared to conf.rmsd())
-
-        conf_path = os.path.join(conformers_dir, '%s-%i.%s' % (mol_name, conf_idx + 1, args.format))
+        conf_name = '%s-%i' % (mol_name, conf_idx + 1)
+        log_data[conf_name] = [score, rmsd, min_rmsd]
+        conf_path = os.path.join(conformers_dir, '%s.%s' % (conf_name, args.format))
         with io.MoleculeWriter(conf_path) as molecule_writer:
             molecule_writer.write(min_conf)
     conformers_mol = min_conformers
+    if args.log:
+        print('Saving log file (log.yml)...')
+        with open('log.yml', 'w') as log:
+            yaml.dump(log_data, log)
 
 print('Conformers saved in %s | format: %s\n' % (conformers_dir, args.format))
 
