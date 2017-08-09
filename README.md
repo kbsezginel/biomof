@@ -1,12 +1,6 @@
 # BioMOF
 Metal-Organic Frameworks for Drug Delivery
 
-## [Drugs][drugs]
-More information on drug molecules can be found here.
 
-## [Results][results]
-Preliminary results are shown here.
-
+See repository page for more information: https://kbsezginel.github.io/biomof/
 -------------------------------------------------------------------------
-[drugs]: https://github.com/kbsezginel/biomof/tree/master/drugs
-[results]: https://github.com/kbsezginel/biomof/tree/master/results
