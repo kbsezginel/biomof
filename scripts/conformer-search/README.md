@@ -55,6 +55,13 @@ I have written a command-line-interface (CLI) for generating conformers using [C
 python conformer_search.py myconf.mol2 100
 ```
 
+Using the CLI molecule definition and input files for RASPA simulations can be generated. Also you can perform a geometric structure comparison using [Soft Overlap of Atomic Positions (SOAP)](https://arxiv.org/abs/1601.04077) method with the [glosim](https://github.com/cosmo-epfl/glosim) Python library. Using the following line you can get more information about the usage of CLI:
+```
+python conformer_search.py --help
+```
+
+I am also planning to write a CLI for OpenBabel conformer search in the near future. Stay tuned!
+
 -----------------------------------------------------------------------
 [OpenBabelMain]: http://openbabel.org/wiki/Main_Page
 [OpenBabelConformerSearch]: http://open-babel.readthedocs.io/en/latest/3DStructureGen/multipleconformers.html
