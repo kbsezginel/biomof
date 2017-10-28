@@ -1,13 +1,14 @@
 # User
 dev
 results/data
-drugs/conformers/conformer_generator.log
-drugs/conformers/conformer_generator.warn
-drugs/conformers/DMOG-conformers-SOAP/
-drugs/conformers/DMOG-conformers-RASPA/
-drugs/conformers/DMOG-conformers/
-drugs/conformers/source
-drugs/conformers/log.yml
+scripts/conformer-search/conformer_generator.log
+scripts/conformer-search/conformer_generator.warn
+scripts/conformer-search/DMOG-conformers-SOAP/
+scripts/conformer-search/DMOG-conformers-RASPA/
+scripts/conformer-search/DMOG-conformers/
+scripts/conformer-search/source
+scripts/conformer-search/log.yml
+scripts/conformer-search/obconf.*
 
 
 # Byte-compiled / optimized / DLL files
