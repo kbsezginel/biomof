@@ -1,6 +1,6 @@
 # User
 dev
-results/data
+results
 scripts/conformer-search/conformer_generator.log
 scripts/conformer-search/conformer_generator.warn
 scripts/conformer-search/DMOG-conformers-SOAP/
