@@ -1,5 +1,37 @@
+"""
+Write and read XYZ files for Soft Overlap of Atomic Orbitals (SOAP) algorithm
+"""
 import os
 import glob
+
+
+def read_xyz(file_name):
+    """ Read single or multiple xyz formatted molecules
+
+    Args:
+        - file_name (str): Path to the xyz file
+
+    Returns:
+        - list: list of dictionaries with 'atoms' and 'coordinates' keys for each molecule in xyz file
+     """
+    with open(file_name, 'r') as f:
+        xyz_lines = f.readlines()
+    mol_start = []
+    mol_idx = 0
+    for line_idx, line in enumerate(xyz_lines):
+        if len(line.split()) == 1 and line.split()[0].isdigit() and line_idx != mol_idx + 1:
+            mol_idx = line_idx
+            mol_start.append(mol_idx)
+    mol_start.append(len(xyz_lines))
+    molecules = []
+    for i in range(len(mol_start) - 1):
+        mol_lines = xyz_lines[mol_start[i] + 2:mol_start[i + 1]]
+        molecule = dict(atoms=[], coordinates=[])
+        for line in mol_lines:
+            molecule['atoms'].append(line.split()[0])
+            molecule['coordinates'].append([float(i) for i in line.split()[1:4]])
+        molecules.append(molecule)
+    return molecules
 
 
 def write_xyz(file_name, names, coors, header='mol'):
