@@ -86,10 +86,14 @@ print('Conformers saved to: %s.%s \n' % (args.output, args.format))
 # TODO
 """
 I need the coordinates for the input and output files to be able to create RASPA and SOAP inputs
-An easu way to get around that is to only use xyz format for RASPA and SOAP.
+An easy  way to get around that is to only use xyz format for RASPA and SOAP.
 Other formats can still be used with OpenBabel but not the others.
 Still, I need functions to read the xyz files which should not be hard.
 Alternatively, I can also use Openbabel python API but that seems like too much work.
+
+Need to figure out bonds!!!!!!!!
+A quick way to get around that is to convet input file to a bonded format (ex: mol) using obabel
+Read bonds from there and feed to RASPA
 """
 
 # Generate RASPA molecule definition files ---------------------------------------------------------
