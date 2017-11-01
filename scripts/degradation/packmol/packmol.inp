@@ -1,0 +1,37 @@
+#
+# A mixture of water and PZA in IRMOF-1
+#
+
+# All the atoms from different molecules will be separated at least 2.0
+# Angstroms at the solution.
+
+tolerance 3.0
+
+# The file type of input and output files is XYZ
+
+filetype xyz
+
+# The name of the output file
+
+output mixture.xyz
+
+# 1000 water molecules and 400 urea molecules will be put in a box
+# defined by the minimum coordinates x, y and z = 0. 0. 0. and maximum
+# coordinates 40. 40. 40. That is, they will be put in a cube of side
+# 40. (the keyword "inside cube 0. 0. 0. 40.") could be used as well.
+
+structure IRMOF-1-222-D80.xyz
+  number 1
+  fixed 40. 40. 40. 0. 0. 0.
+  centerofmass
+end structure
+
+structure water.xyz
+  number 100
+  inside box 2. 2. 2. 78. 78. 78.
+end structure
+
+structure pza.xyz
+  number 50
+  inside box 15. 15. 15. 65. 65. 65.
+end structure

@@ -1,6 +1,7 @@
 # User
 dev
 results
+scripts/degradation/pmol-temp
 scripts/conformer-search/conformer_generator.log
 scripts/conformer-search/conformer_generator.warn
 scripts/conformer-search/DMOG-conformers-SOAP/
