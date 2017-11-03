@@ -55,7 +55,7 @@ def write_xyz(file_name, atoms, coordinates, header='mol'):
             xyz_file.write(format % (atom, coor[0], coor[1], coor[2]))
 
 
-def write_cif(file_name, atoms, coordinates, header='mol', cell=[1, 1, 1, 90, 90, 90]):
+def write_cif(file_name, atoms, coordinates, header='mol', cell=[1, 1, 1, 90, 90, 90], fractional=False):
     """ Write given atomic coordinates to file in cif format """
     with open(file_name, 'w') as cif_file:
         cif_file.write('data_%s\n' % header)
@@ -72,5 +72,15 @@ def write_cif(file_name, atoms, coordinates, header='mol', cell=[1, 1, 1, 90, 90
         cif_file.write('_atom_site_fract_y\n')
         cif_file.write('_atom_site_fract_z\n')
         cif_format = '%s%-4i %2s %7.4f %7.4f %7.4f\n'
+        if fractional:
+            coordinates = fractional_coordinates(coordinates, cell=cell[:3])
         for i, (atom, coor) in enumerate(zip(atoms, coordinates)):
             cif_file.write(cif_format % (atom, i, atom, coor[0], coor[1], coor[2]))
+
+
+def fractional_coordinates(coordinates, cell=[1, 1, 1]):
+    """ Convert cartesian coordinates to fractional coordinates (ONLY ORTHOGONAL CELLS!) """
+    frac_coor = []
+    for coor in coordinates:
+        frac_coor.append([cr / cl for (cr, cl) in zip(coor, cell)])
+    return frac_coor

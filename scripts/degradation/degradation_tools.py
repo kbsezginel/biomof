@@ -1,3 +1,6 @@
+"""
+Tools for packing and degrading MOF
+"""
 import math
 from copy import deepcopy
 from irmof1 import irmof1
@@ -5,7 +8,7 @@ from file_io import write_xyz
 from thermof.trajectory.tools import center_of_mass
 
 
-MW = dict(PZA=123.113, RFP=822.94, NIZ=137.139, H2O=18.01528, NODE=277.5194, LINKER=164.115)
+MW = dict(PZA=123.113, RFP=822.94, NIZ=137.139, H2O=18.01528, NODE=277.5194, LINKER=164.115, IRMOF1=6158.9142)
 
 
 def pack_mof(atoms, coordinates, cell, packing):
