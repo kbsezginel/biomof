@@ -27,6 +27,9 @@ python conformer_search.py my_molecule.pdb 10
 
 would generate maximum of 10 conformers of the given molecule
 and save them to /my_molecule-conformers in 'mol' format.
+
+To only generate RASPA files:
+python conformer_search.py my_molecule.pdb 0 --raspa --initialize
     """,
     formatter_class=argparse.RawDescriptionHelpFormatter)
 
@@ -65,32 +68,43 @@ mol = mol_reader[0]
 mol_reader.close()
 
 # Generate conformers ------------------------------------------------------------------------------
-print('Generating %i conformers...' % args.conformers)
-conformer_generator = conformer.ConformerGenerator()            # Initialize conformer generator
-conformer_generator.settings.max_conformers = args.conformers   # Set max number of conformers
-conformers = conformer_generator.generate(mol)                  # Run conformer generator
+if args.conformers > 0:
+    print('Generating %i conformers...' % args.conformers)
+    conformer_generator = conformer.ConformerGenerator()            # Initialize conformer generator
+    conformer_generator.settings.max_conformers = args.conformers   # Set max number of conformers
+    conformers = conformer_generator.generate(mol)                  # Run conformer generator
+else:
+    print('Skipping conformer generation...')
+    conformers = None
 
-print("""
-----------------------------------------
-Conformers generated: %i
-Conformer sampling limit reached: %s
-Rotamers sampled: %i / %i
-----------------------------------------
-""" % (len(conformers), conformers.sampling_limit_reached,
-       conformers.n_rotamers_sampled, conformers.n_rotamers_in_molecule))
+if conformers is not None:
+    print("""
+    ----------------------------------------
+    Conformers generated: %i
+    Conformer sampling limit reached: %s
+    Rotamers sampled: %i / %i
+    ----------------------------------------
+    """ % (len(conformers), conformers.sampling_limit_reached,
+           conformers.n_rotamers_sampled, conformers.n_rotamers_in_molecule))
+    conformers_dir = '%s-conformers' % mol_name
+    if not os.path.isdir(conformers_dir):
+        os.makedirs(conformers_dir)
+else:
+    print('No conformers found!')
+    args.nominimise = True
 
 # Minimise conformers and save ---------------------------------------------------------------------
-conformers_dir = '%s-conformers' % mol_name
-if not os.path.isdir(conformers_dir):
-    os.makedirs(conformers_dir)
-
 if args.nominimise:
     print('Skiping minimisation...')
-    for conf_idx, conf in enumerate(conformers):
-        conf_path = os.path.join(conformers_dir, '%s-%i.%s' % (mol_name, conf_idx + 1, args.format))
-        with io.MoleculeWriter(conf_path) as molecule_writer:
-            molecule_writer.write(conf.molecule)
-    conformers_mol = [c.molecule for c in conformers]
+    if conformers is not None:
+        for conf_idx, conf in enumerate(conformers):
+            conf_path = os.path.join(conformers_dir, '%s-%i.%s' % (mol_name, conf_idx + 1, args.format))
+            with io.MoleculeWriter(conf_path) as molecule_writer:
+                molecule_writer.write(conf.molecule)
+        conformers_mol = [c.molecule for c in conformers]
+        print('Conformers saved in %s | format: %s\n' % (conformers_dir, args.format))
+    else:
+        conformers_mol = [mol]
 else:
     # Run minimisation
     print('Minimising molecular geometry using Tripos force field...')
@@ -112,8 +126,7 @@ else:
         print('Saving log file (log.yml)...')
         with open('log.yml', 'w') as log:
             yaml.dump(log_data, log)
-
-print('Conformers saved in %s | format: %s\n' % (conformers_dir, args.format))
+    print('Conformers saved in %s | format: %s\n' % (conformers_dir, args.format))
 
 # Generate RASPA molecule definition files ---------------------------------------------------------
 if args.raspa:
