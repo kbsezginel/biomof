@@ -33,7 +33,7 @@ def write_raspa_file(input_file, config):
             "ExternalPressure               %.1f\n" % external_pressure +
             "\n"
         )
-        if charge == 'yes':
+        if config['charge'] == 'yes':
             raspa_input_file.write(
                 "Charge Method                  Ewald\n" +
                 "Ewald Precision                1e-6\n" +
@@ -42,7 +42,7 @@ def write_raspa_file(input_file, config):
 
         if config['void_fraction'] is not False:
             raspa_input_file.write("HeliumVoidFraction             %s\n" % str(vf))
-        if movies == 'yes':
+        if config['movies'] == 'yes':
             raspa_input_file.write(
                 "\n" +
                 "Movies                         yes\n" +
@@ -52,11 +52,11 @@ def write_raspa_file(input_file, config):
             # TODO: Handle mixture adsorption!!!!!!!!!!!!!!!!!!
             raspa_input_file.write(
                 "\n" +
-                "Component %i MoleculeName               %s\n" % (comp_idx, component['name']) +
-                "             MoleculeDefinition         %s\n" % component['definition'] +
-                "             TranslationProbability     %.2f\n" % component['p_translation'] +
-                "             RotationProbability        %.2f\n" % component['p_rotation'] +
-                "             ReinsertionProbability     %.2f\n" % component['p_reinsertion'] +
-                "             SwapProbability            %.2f\n" % component['p_swap'] +
-                "             CreateNumberOfMolecules    %i\n" % component['create_molecules']
+                "Component %-4iMoleculeName               %s\n" % (comp_idx, component['name']) +
+                "              MoleculeDefinition         %s\n" % component['definition'] +
+                "              TranslationProbability     %.2f\n" % component['p_translation'] +
+                "              RotationProbability        %.2f\n" % component['p_rotation'] +
+                "              ReinsertionProbability     %.2f\n" % component['p_reinsertion'] +
+                "              SwapProbability            %.2f\n" % component['p_swap'] +
+                "              CreateNumberOfMolecules    %i\n" % component['create_molecules']
             )
