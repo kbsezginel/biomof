@@ -1,5 +1,5 @@
 """
-Read RASPA output file for gas adsorption simulations
+Read RASPA output file for gas adsorption simulations.
 """
 import os
 import sys
@@ -19,7 +19,8 @@ def parse_output(data_file, verbose=False, save=False, loading='absolute'):
     with open(data_file) as ads_data:
         data_lines = ads_data.readlines()
 
-    results = dict(ads={}, finished=False, warnings=[], name=data_file.split('_')[1])
+    results = dict(ads={}, finished=False, warnings=[],
+                   framework=os.path.basename(data_file).split('_')[1])
     for i, line in enumerate(data_lines):
         if 'Number of molecules:' in line:
             ads_start = i
