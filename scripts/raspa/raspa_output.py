@@ -30,7 +30,9 @@ def parse_output(data_file, verbose=False, save=False, loading='absolute'):
         if 'WARNING' in line:
             results['warnings'].append(line)
     if len(results['warnings']) > 0:
-        print('%s - %i warning(s) found -> %s' % (results['name'], len(results['warnings']), results['warnings'][0].strip()))
+        print('%s - %i warning(s) found -> %s' %
+              (results['name'], len(results['warnings']),
+               results['warnings'][0].strip())) if verbose else None
 
     if results['finished']:
         ads_lines = data_lines[ads_start:ads_end]
@@ -56,6 +58,8 @@ def parse_output(data_file, verbose=False, save=False, loading='absolute'):
             import yaml
             with open('raspa_ads.yaml', 'w') as rads:
                 yaml.dump(results, rads)
+    else:
+        print('Simulation not finished!') if verbose else None
 
     return results
 
