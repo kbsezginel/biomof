@@ -1,0 +1,4324 @@
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: NUDLAA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.2284245889, cc/g: 7.3019665565, id: '0', mg/g: 267.9258424738,
+      mol/kg: 0.3257773917, mol/uc: 2.0}
+  finished: true
+  framework: FAYRAA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.7257943536, cc/g: 7.8332252887, id: '0', mg/g: 287.4189396153,
+      mol/kg: 0.3494795112, mol/uc: 1.427875}
+  finished: true
+  framework: MAYKOO
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.9163030227, cc/g: 21.8113062962, id: '0', mg/g: 800.3066803537,
+      mol/kg: 0.9731118897, mol/uc: 7.0}
+  finished: true
+  framework: MEHMET
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WAWGOQ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: DAKVOC
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.4969516738, cc/g: 13.0849642458, id: '0', mg/g: 480.1172454272,
+      mol/kg: 0.5837859554, mol/uc: 1.25}
+  finished: true
+  framework: TEQPEM
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: XADDIR
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.9252332119, cc/g: 8.0042657299, id: '0', mg/g: 293.6948043368,
+      mol/kg: 0.3571104841, mol/uc: 2.7993}
+  finished: true
+  framework: EKUPEG
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: NUTQAV
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.5507108699, cc/g: 10.8634406848, id: '0', mg/g: 398.6044684172,
+      mol/kg: 0.4846726349, mol/uc: 3.613}
+  finished: true
+  framework: REGYOT
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: NINVAI
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WUHJIT
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: OFOCUI
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: MUDLON
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.1501876167, cc/g: 10.380763467, id: '0', mg/g: 380.8939380791,
+      mol/kg: 0.4631379807, mol/uc: 2.0}
+  finished: true
+  framework: TEMPEI
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.6196044592, cc/g: 5.900652212, id: '0', mg/g: 216.5084163025, mol/kg: 0.2632577227,
+      mol/uc: 1.0}
+  finished: true
+  framework: TADWEC
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 5.2111844888, cc/g: 6.5776314354, id: '0', mg/g: 241.3483313265,
+      mol/kg: 0.293461165, mol/uc: 4.0}
+  finished: true
+  framework: BOXFAW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: DAPYAW
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: GITTUZ
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: YUVGOL
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: XALCET
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: SONTUL
+  warnings: []
+- ads:
+    RFP: {cc/cc: 10.4163809983, cc/g: 27.5876870364, id: '0', mg/g: 1012.2552923213,
+      mol/kg: 1.2308252381, mol/uc: 14.2586}
+  finished: true
+  framework: ADATIK
+  warnings: []
+- ads:
+    RFP: {cc/cc: 10.7970830315, cc/g: 34.1793357429, id: '0', mg/g: 1254.1179493643,
+      mol/kg: 1.524911784, mol/uc: 5.0}
+  finished: true
+  framework: HOHMEX
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 11.355649254, cc/g: 26.0688027371, id: '0', mg/g: 956.5239557887,
+      mol/kg: 1.1630601831, mol/uc: 12.2726}
+  finished: true
+  framework: ADASEF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.181519168, cc/g: 5.3804595485, id: '0', mg/g: 197.4213585197, mol/kg: 0.2400493161,
+      mol/uc: 1.27925}
+  finished: true
+  framework: GITVEL
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: YUGLES
+  warnings: []
+- ads:
+    RFP: {cc/cc: 12.0150525684, cc/g: 35.8938824845, id: '0', mg/g: 1317.028588116,
+      mol/kg: 1.6014063229, mol/uc: 3.927975}
+  finished: true
+  framework: RAVWUI
+  warnings: []
+- ads:
+    RFP: {cc/cc: 1.5293777551, cc/g: 1.5523044146, id: '0', mg/g: 56.9575969486, mol/kg: 0.0692560941,
+      mol/uc: 0.59775}
+  finished: true
+  framework: EVOTIT
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.4114875684, cc/g: 4.1670710009, id: '0', mg/g: 152.8993593611,
+      mol/kg: 0.1859139605, mol/uc: 2.0}
+  finished: true
+  framework: LIZWEX
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.7862067893, cc/g: 6.7293003328, id: '0', mg/g: 246.9134098302,
+      mol/kg: 0.3002278761, mol/uc: 2.0}
+  finished: true
+  framework: VUJBEI
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: HOGJIX
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: VOGTIV
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: MOCKAR
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.5951190619, cc/g: 7.6012192601, id: '0', mg/g: 278.9061081475,
+      mol/kg: 0.3391285574, mol/uc: 1.0}
+  finished: true
+  framework: UTEWUM
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.8758476929, cc/g: 16.9662050398, id: '0', mg/g: 622.5288412008,
+      mol/kg: 0.7569475951, mol/uc: 1.077325}
+  finished: true
+  framework: XAWVUN
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.1061721539, cc/g: 14.9072522832, id: '0', mg/g: 546.9811585791,
+      mol/kg: 0.6650873746, mol/uc: 0.7178583333}
+  finished: true
+  framework: FUNCEX
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: ANUGOG
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: YEKXIX
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.8933947521, cc/g: 7.8762803331, id: '0', mg/g: 288.9987276025,
+      mol/kg: 0.3514004129, mol/uc: 0.6799625}
+  finished: true
+  framework: BAZJET
+  warnings: []
+- ads:
+    RFP: {cc/cc: 12.2185431545, cc/g: 37.4366445638, id: '0', mg/g: 1373.6360549729,
+      mol/kg: 1.6702366856, mol/uc: 10.0}
+  finished: true
+  framework: LEJCIO
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.8209810712, cc/g: 15.2497066646, id: '0', mg/g: 559.5465925508,
+      mol/kg: 0.680365984, mol/uc: 3.0}
+  finished: true
+  framework: ICITEU
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 3.4396451183, cc/g: 3.9579435786, id: '0', mg/g: 145.2259962514,
+      mol/kg: 0.1765837361, mol/uc: 0.25}
+  finished: true
+  framework: XADCOW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: FAWCEN
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 8.9323558751, cc/g: 19.8484288541, id: '0', mg/g: 728.2842206131,
+      mol/kg: 0.8855380713, mol/uc: 1.491325}
+  finished: true
+  framework: VEBHUG
+  warnings: []
+- ads:
+    RFP: {cc/cc: 10.3952859041, cc/g: 22.3044142375, id: '0', mg/g: 818.3999377785,
+      mol/kg: 0.9951119109, mol/uc: 3.6032}
+  finished: true
+  framework: LUKLIN
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: FIJDOS
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.9637716786, cc/g: 9.5006322176, id: '0', mg/g: 348.5999108939,
+      mol/kg: 0.4238709065, mol/uc: 0.7342875}
+  finished: true
+  framework: DICKEH
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: AXUBAW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: KIGCEK
+  warnings: []
+- ads:
+    RFP: {cc/cc: 11.781993411, cc/g: 32.5277907969, id: '0', mg/g: 1193.5189904909,
+      mol/kg: 1.4512280714, mol/uc: 2.748275}
+  finished: true
+  framework: RAVWIW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 9.128050816, cc/g: 19.5488709188, id: '0', mg/g: 717.2927552905,
+      mol/kg: 0.8721732877, mol/uc: 6.0}
+  finished: true
+  framework: BIWSEG
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: DELGEI
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WEHHIC
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.415284817, cc/g: 3.8677882054, id: '0', mg/g: 141.9179895491, mol/kg: 0.1725614522,
+      mol/uc: 2.0}
+  finished: true
+  framework: LEVLEF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.7833961681, cc/g: 6.7293003328, id: '0', mg/g: 246.9134098302,
+      mol/kg: 0.3002278761, mol/uc: 2.0}
+  finished: true
+  framework: MUDTAH
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: TUDJOS
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: SARHEA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: KEFBII
+  warnings: []
+- ads:
+    RFP: {cc/cc: 12.1161976313, cc/g: 41.2556983109, id: '0', mg/g: 1513.7658658565,
+      mol/kg: 1.840623849, mol/uc: 7.0}
+  finished: true
+  framework: FEBXIV
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 9.0219461984, cc/g: 18.2658837313, id: '0', mg/g: 670.217022961,
+      mol/kg: 0.8149327873, mol/uc: 3.948075}
+  finished: true
+  framework: ZARLEL
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: EPISOM
+  warnings: []
+- ads:
+    RFP: {cc/cc: 16.0849859102, cc/g: 127.1299512301, id: '0', mg/g: 4664.688481332,
+      mol/kg: 5.6719054514, mol/uc: 34.4404}
+  finished: true
+  framework: BAZGAM
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: IFEHUY
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.5614808448, cc/g: 7.9303906397, id: '0', mg/g: 290.984158425, mol/kg: 0.3538145454,
+      mol/uc: 1.0}
+  finished: true
+  framework: WAMREJ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.2285844422, cc/g: 13.4854148323, id: '0', mg/g: 494.8106927259,
+      mol/kg: 0.6016520667, mol/uc: 4.0}
+  finished: true
+  framework: ICARAH
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: IKETOH
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.7988702643, cc/g: 6.7747642283, id: '0', mg/g: 248.5815840715,
+      mol/kg: 0.3022562487, mol/uc: 2.0}
+  finished: true
+  framework: VUJBIM
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: MECWEX
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.1362513066, cc/g: 14.3007026633, id: '0', mg/g: 524.7254666804,
+      mol/kg: 0.6380261505, mol/uc: 5.0}
+  finished: true
+  framework: XOXMED
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.5015481002, cc/g: 7.7450821059, id: '0', mg/g: 284.1847647768,
+      mol/kg: 0.3455470013, mol/uc: 2.0}
+  finished: true
+  framework: CAXTUS
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 6.8862891362, cc/g: 12.5178328164, id: '0', mg/g: 459.3078970363,
+      mol/kg: 0.5584833747, mol/uc: 6.0}
+  finished: true
+  framework: VETSOE
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.7758288421, cc/g: 23.4375320179, id: '0', mg/g: 859.9766190192,
+      mol/kg: 1.0456659846, mol/uc: 3.118925}
+  finished: true
+  framework: XAHPED
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: UVEVUN
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 1.9101982371, cc/g: 2.8066061519, id: '0', mg/g: 102.9807945462,
+      mol/kg: 0.1252167926, mol/uc: 0.25}
+  finished: true
+  framework: EGEJIK
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.6427781356, cc/g: 0.8642134961, id: '0', mg/g: 31.7099684349, mol/kg: 0.0385569033,
+      mol/uc: 0.1513125}
+  finished: true
+  framework: VEHJUP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WOBHEB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: UKIQIP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: NESVEO
+  warnings: []
+- ads:
+    RFP: {cc/cc: 13.9425224158, cc/g: 55.3864653873, id: '0', mg/g: 2032.2560074465,
+      mol/kg: 2.4710683196, mol/uc: 11.4407}
+  finished: true
+  framework: HEXVEM
+  warnings: []
+- ads:
+    RFP: {cc/cc: 9.0865547552, cc/g: 24.9121114572, id: '0', mg/g: 914.0823089751,
+      mol/kg: 1.1114543773, mol/uc: 1.7593125}
+  finished: true
+  framework: VAGMAT
+  warnings: []
+- ads:
+    RFP: {cc/cc: 9.7310347638, cc/g: 27.0391415001, id: '0', mg/g: 992.1279028289,
+      mol/kg: 1.2063518675, mol/uc: 1.909525}
+  finished: true
+  framework: XAFFER
+  warnings: []
+- ads:
+    RFP: {cc/cc: 15.403896765, cc/g: 90.3842697731, id: '0', mg/g: 3316.4054420284,
+      mol/kg: 4.0324960994, mol/uc: 16.0}
+  finished: true
+  framework: XAHQAA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 2.4823162911, cc/g: 2.6204188347, id: '0', mg/g: 96.1491563262, mol/kg: 0.1169100415,
+      mol/uc: 0.6049625}
+  finished: true
+  framework: MEFHUC
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: NAJZII
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: KEFBOO
+  warnings: []
+- ads:
+    RFP: {cc/cc: 10.1600557616, cc/g: 18.1458036135, id: '0', mg/g: 665.8110089818,
+      mol/kg: 0.8095754104, mol/uc: 8.0}
+  finished: true
+  framework: GAQYIH
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.1719452322, cc/g: 7.0408511286, id: '0', mg/g: 258.3449206157,
+      mol/kg: 0.3141277214, mol/uc: 10.0}
+  finished: true
+  framework: GULWEQ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.5668506806, cc/g: 11.0557727587, id: '0', mg/g: 405.6615718079,
+      mol/kg: 0.4932535345, mol/uc: 20.0499}
+  finished: true
+  framework: CIGXIA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: DAKVUI
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.6014928661, cc/g: 11.0339079096, id: '0', mg/g: 404.8593005179,
+      mol/kg: 0.4922780338, mol/uc: 1.3224333333}
+  finished: true
+  framework: YUXQIS
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: UFIREI
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: NESVAK
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 4.1903259032, cc/g: 8.1410809388, id: '0', mg/g: 298.714867058, mol/kg: 0.3632144975,
+      mol/uc: 2.0}
+  finished: true
+  framework: LEJCAG
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: MOCKEV
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: BEPNOB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: ADODAA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: BUVYIB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 13.5134883364, cc/g: 57.5959284743, id: '0', mg/g: 2113.3262581024,
+      mol/kg: 2.5696435618, mol/uc: 9.421325}
+  finished: true
+  framework: RAVXIX
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.8272802837, cc/g: 4.9102809082, id: '0', mg/g: 180.1694295565,
+      mol/kg: 0.2190722861, mol/uc: 2.733}
+  finished: true
+  framework: MACHIJ
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 10.5401808431, cc/g: 29.9240930411, id: '0', mg/g: 1097.9833687707,
+      mol/kg: 1.3350640412, mol/uc: 2.1132625}
+  finished: true
+  framework: VAGMEX
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.8943849284, cc/g: 11.6403320258, id: '0', mg/g: 427.1103873964,
+      mol/kg: 0.5193336585, mol/uc: 5.0}
+  finished: true
+  framework: XIJNUA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 15.0059665445, cc/g: 67.1615944641, id: '0', mg/g: 2464.3124067416,
+      mol/kg: 2.9964159514, mol/uc: 15.0}
+  finished: true
+  framework: NIBJAK
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: FECXUI
+  warnings: []
+- ads:
+    RFP: {cc/cc: 13.8233670252, cc/g: 42.4887896442, id: '0', mg/g: 1559.0108052529,
+      mol/kg: 1.8956382448, mol/uc: 9.5319}
+  finished: true
+  framework: ECOKAJ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.5391150469, cc/g: 4.9050299669, id: '0', mg/g: 179.9767605178,
+      mol/kg: 0.2188380153, mol/uc: 3.0}
+  finished: true
+  framework: ETAXUT
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.9516486899, cc/g: 8.6071382122, id: '0', mg/g: 315.8155736507,
+      mol/kg: 0.3840076526, mol/uc: 4.0}
+  finished: true
+  framework: YONNAR
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: XADDEN
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: CAXWIJ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.1277108708, cc/g: 7.5388562276, id: '0', mg/g: 276.6178659468,
+      mol/kg: 0.3363462294, mol/uc: 2.7167}
+  finished: true
+  framework: GUPDEB
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: SONVAT
+  warnings: []
+- ads:
+    RFP: {cc/cc: 12.2473198719, cc/g: 42.8077920131, id: '0', mg/g: 1570.7157312875,
+      mol/kg: 1.9098705422, mol/uc: 5.613975}
+  finished: true
+  framework: RAVXAP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 9.7130424256, cc/g: 23.8920710438, id: '0', mg/g: 876.6546947813,
+      mol/kg: 1.0659452528, mol/uc: 9.0}
+  finished: true
+  framework: LURRIA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.0482240612, cc/g: 17.9097585238, id: '0', mg/g: 657.1499751311,
+      mol/kg: 0.7990442537, mol/uc: 8.0}
+  finished: true
+  framework: NIBHUC
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WEHHUO
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.2206513966, cc/g: 8.5696464787, id: '0', mg/g: 314.4399162562,
+      mol/kg: 0.3823349581, mol/uc: 1.99275}
+  finished: true
+  framework: RAYFAA
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 3.3100799916, cc/g: 3.3569980833, id: '0', mg/g: 123.1759324968,
+      mol/kg: 0.1497725402, mol/uc: 0.418975}
+  finished: true
+  framework: AMIMEP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.4814683731, cc/g: 11.4116797653, id: '0', mg/g: 418.7206133488,
+      mol/kg: 0.5091323331, mol/uc: 0.9248375}
+  finished: true
+  framework: ANUGIA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.9110668436, cc/g: 17.2685085368, id: '0', mg/g: 633.6210474553,
+      mol/kg: 0.770434872, mol/uc: 13.0837}
+  finished: true
+  framework: LELDUD
+  warnings: []
+- ads:
+    RFP: {cc/cc: 11.9594924484, cc/g: 42.0721169024, id: '0', mg/g: 1543.7221300018,
+      mol/kg: 1.8770483816, mol/uc: 6.68085}
+  finished: true
+  framework: XAHPON
+  warnings: ['WARNING: ENERGY DRIFT (INTERNAL CONSISTENCY ERROR IN THE CODE), THE
+      SIMULATION RESULTS ARE WRONG!!
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: BEPLUF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.6806736499, cc/g: 12.7000646043, id: '0', mg/g: 465.9943978492,
+      mol/kg: 0.5666136498, mol/uc: 0.8725625}
+  finished: true
+  framework: SAHYIK
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: IYUQEZ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.1185005951, cc/g: 5.7285639952, id: '0', mg/g: 210.1941063016,
+      mol/kg: 0.2555800033, mol/uc: 2.3604}
+  finished: true
+  framework: JEJWEB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.5824304459, cc/g: 6.7992052674, id: '0', mg/g: 249.4783816555,
+      mol/kg: 0.3033466862, mol/uc: 2.0}
+  finished: true
+  framework: FAYPAY
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.9247078883, cc/g: 18.3667146566, id: '0', mg/g: 673.9167400739,
+      mol/kg: 0.8194313612, mol/uc: 7.8212}
+  finished: true
+  framework: XOVQEF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: SARGUP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.5030291643, cc/g: 5.3659209197, id: '0', mg/g: 196.8879029975,
+      mol/kg: 0.2394006748, mol/uc: 1.0}
+  finished: true
+  framework: RULXOM
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: LELMEW
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: PUWDOA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: VEHKIE
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WOBHOL
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.5571802843, cc/g: 7.9055243957, id: '0', mg/g: 290.0717591008,
+      mol/kg: 0.3527051374, mol/uc: 1.62025}
+  finished: true
+  framework: VOLQOD
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.651621729, cc/g: 9.4482216585, id: '0', mg/g: 346.6768476892, mol/kg: 0.4215326083,
+      mol/uc: 3.0}
+  finished: true
+  framework: JENKET
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.3429904464, cc/g: 6.6282186912, id: '0', mg/g: 243.2044933661,
+      mol/kg: 0.2957181165, mol/uc: 2.0}
+  finished: true
+  framework: FEVFUJ
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 9.7281213772, cc/g: 28.6079648934, id: '0', mg/g: 1049.691618862,
+      mol/kg: 1.2763449562, mol/uc: 5.4191}
+  finished: true
+  framework: BAZFUF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 9.0496684284, cc/g: 24.7802451527, id: '0', mg/g: 909.2438328645,
+      mol/kg: 1.1055711593, mol/uc: 1.75}
+  finished: true
+  framework: XAFFAN
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.8398140583, cc/g: 4.5880728071, id: '0', mg/g: 168.346877882, mol/kg: 0.2046969649,
+      mol/uc: 1.0}
+  finished: true
+  framework: OJICEQ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.1342300522, cc/g: 6.4112493029, id: '0', mg/g: 235.2433905993,
+      mol/kg: 0.2860380227, mol/uc: 3.8919}
+  finished: true
+  framework: BUFNEW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.3896796166, cc/g: 9.8175622977, id: '0', mg/g: 360.2287999142,
+      mol/kg: 0.4380107487, mol/uc: 2.0}
+  finished: true
+  framework: OKABAE
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: LENKIA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: TUDKAF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: ALAMUW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.1535000364, cc/g: 4.3004122337, id: '0', mg/g: 157.7919539612,
+      mol/kg: 0.1918629824, mol/uc: 0.5}
+  finished: true
+  framework: RAYFEE
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: ZARMAI
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: UCOCUM
+  warnings: []
+- ads:
+    RFP: {cc/cc: 2.038193585, cc/g: 2.7234326506, id: '0', mg/g: 99.9289686812, mol/kg: 0.1215060051,
+      mol/uc: 0.4768375}
+  finished: true
+  framework: VEHJOJ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 13.9861079032, cc/g: 30.4893926433, id: '0', mg/g: 1118.7255032346,
+      mol/kg: 1.3602848949, mol/uc: 6.6054}
+  finished: true
+  framework: PIBPIA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.594464315, cc/g: 6.1601931623, id: '0', mg/g: 226.031566983, mol/kg: 0.2748371477,
+      mol/uc: 1.997075}
+  finished: true
+  framework: FAYPEC
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.4566304616, cc/g: 5.2224379001, id: '0', mg/g: 191.6231830604,
+      mol/kg: 0.2329991769, mol/uc: 1.0}
+  finished: true
+  framework: MIDCAF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.5956199911, cc/g: 18.8063361113, id: '0', mg/g: 690.0474560524,
+      mol/kg: 0.8390450817, mol/uc: 31.0803}
+  finished: true
+  framework: YUSWEP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 11.6789370936, cc/g: 43.87059354, id: '0', mg/g: 1609.7123484678,
+      mol/kg: 1.9572874547, mol/uc: 20.1004}
+  finished: true
+  framework: DAWMUL
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: CAXVOO
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.3547677081, cc/g: 15.491815452, id: '0', mg/g: 568.4301173284,
+      mol/kg: 0.6911676726, mol/uc: 1.0}
+  finished: true
+  framework: FEFDEB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 11.5126280646, cc/g: 34.9755661376, id: '0', mg/g: 1283.3334624253,
+      mol/kg: 1.5604356198, mol/uc: 9.8335}
+  finished: true
+  framework: XAFFUH
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: DANZOJ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 13.1768140828, cc/g: 54.7134855485, id: '0', mg/g: 2007.5628389868,
+      mol/kg: 2.44104331, mol/uc: 7.0}
+  finished: true
+  framework: RUTNOK
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: EVAKOB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.4888482597, cc/g: 5.7310605165, id: '0', mg/g: 210.2857093727,
+      mol/kg: 0.2556913856, mol/uc: 0.6790625}
+  finished: true
+  framework: TEDGUG
+  warnings: []
+- ads:
+    RFP: {cc/cc: 10.8907475459, cc/g: 24.8050411189, id: '0', mg/g: 910.1536535397,
+      mol/kg: 1.1066774319, mol/uc: 1.75}
+  finished: true
+  framework: RAVWES
+  warnings: []
+- ads:
+    RFP: {cc/cc: 10.4375554421, cc/g: 30.3470876775, id: '0', mg/g: 1113.5040087852,
+      mol/kg: 1.3539359558, mol/uc: 18.3191}
+  finished: true
+  framework: ADASAB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.1986045399, cc/g: 17.2983999188, id: '0', mg/g: 634.7178305816,
+      mol/kg: 0.7717684767, mol/uc: 4.0}
+  finished: true
+  framework: CAVPIA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.448076317, cc/g: 7.3175991676, id: '0', mg/g: 268.4994387074, mol/kg: 0.326474841,
+      mol/uc: 1.0}
+  finished: true
+  framework: MOXPUL
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: XEDPED
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 10.6833006666, cc/g: 34.2463226461, id: '0', mg/g: 1256.5758519488,
+      mol/kg: 1.5279004061, mol/uc: 9.5159}
+  finished: true
+  framework: VETMIS
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.5804185178, cc/g: 7.718978861, id: '0', mg/g: 283.2269770604, mol/kg: 0.3443824044,
+      mol/uc: 1.0}
+  finished: true
+  framework: MUWQEB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: MAFJIO
+  warnings: []
+- ads:
+    RFP: {cc/cc: 10.8472389493, cc/g: 26.9443602747, id: '0', mg/g: 988.6501630365,
+      mol/kg: 1.2021232011, mol/uc: 27.048}
+  finished: true
+  framework: ADUROI
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: RUVKAV
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.513879901, cc/g: 5.5454794031, id: '0', mg/g: 203.4763141573, mol/kg: 0.2474116804,
+      mol/uc: 2.8127}
+  finished: true
+  framework: ICODIP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: CAXWAB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.235655978, cc/g: 3.2935999156, id: '0', mg/g: 120.8497088179, mol/kg: 0.1469440296,
+      mol/uc: 0.4110625}
+  finished: true
+  framework: AMILUE
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: XAMDUM
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: ABEMIF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 11.1235916195, cc/g: 33.2156724297, id: '0', mg/g: 1218.7589398358,
+      mol/kg: 1.4819179249, mol/uc: 18.067}
+  finished: true
+  framework: BAZGEQ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 1.2857121894, cc/g: 1.5781122536, id: '0', mg/g: 57.904545549, mol/kg: 0.0704075114,
+      mol/uc: 0.299175}
+  finished: true
+  framework: GUPCAW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: MOFKUO
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: OGIKAR
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 5.9311411109, cc/g: 11.1134471027, id: '0', mg/g: 407.7777753091,
+      mol/kg: 0.4958266765, mol/uc: 2.0}
+  finished: true
+  framework: FAYQED
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WEHJOK
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.8019312423, cc/g: 6.4689084007, id: '0', mg/g: 237.3590346844,
+      mol/kg: 0.2886104845, mol/uc: 1.0}
+  finished: true
+  framework: FAYPIG
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: REXDOP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.2621967295, cc/g: 11.4272908977, id: '0', mg/g: 419.2934214764,
+      mol/kg: 0.5098288241, mol/uc: 0.6010166667}
+  finished: true
+  framework: VEMMIK
+  warnings: []
+- ads:
+    RFP: {cc/cc: 2.1259389571, cc/g: 2.1098906097, id: '0', mg/g: 77.4167088788, mol/kg: 0.094132814,
+      mol/uc: 1.354}
+  finished: true
+  framework: MIHHIV
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.3283221224, cc/g: 7.0236489088, id: '0', mg/g: 257.713731853, mol/kg: 0.313360244,
+      mol/uc: 1.0}
+  finished: true
+  framework: JEWYAM
+  warnings: []
+- ads:
+    RFP: {cc/cc: 1.8433149164, cc/g: 2.160964563, id: '0', mg/g: 79.2907289592, mol/kg: 0.0964114795,
+      mol/uc: 0.71155}
+  finished: true
+  framework: XAKZOZ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: LASYOU
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: BEPMAM
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.1687680285, cc/g: 4.0030291455, id: '0', mg/g: 146.8802887483,
+      mol/kg: 0.1785952296, mol/uc: 0.4}
+  finished: true
+  framework: MICCIM
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.2556353204, cc/g: 3.8113508729, id: '0', mg/g: 139.8471748249,
+      mol/kg: 0.1700434995, mol/uc: 0.5529125}
+  finished: true
+  framework: ECAHUN
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: TEDHAN
+  warnings: []
+- ads:
+    RFP: {cc/cc: 11.7959034905, cc/g: 36.0986122553, id: '0', mg/g: 1324.5405913395,
+      mol/kg: 1.610540346, mol/uc: 5.488075}
+  finished: true
+  framework: RAVXET
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.2240888688, cc/g: 7.2415733292, id: '0', mg/g: 265.7098769285,
+      mol/kg: 0.3230829466, mol/uc: 2.1861}
+  finished: true
+  framework: EFAYEQ
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 5.2406359578, cc/g: 6.7319468851, id: '0', mg/g: 247.0105178832,
+      mol/kg: 0.300345952, mol/uc: 4.0}
+  finished: true
+  framework: BUFNOG
+  warnings: []
+- ads:
+    RFP: {cc/cc: 1.2499568863, cc/g: 1.8691469759, id: '0', mg/g: 68.5832747034, mol/kg: 0.0833920317,
+      mol/uc: 0.0833333333}
+  finished: true
+  framework: FUNBEW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.7371400014, cc/g: 5.4495854452, id: '0', mg/g: 199.9577456648,
+      mol/kg: 0.2431333694, mol/uc: 4.0}
+  finished: true
+  framework: VEJHEZ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.868879421, cc/g: 8.579019652, id: '0', mg/g: 314.7838394071, mol/kg: 0.3827531424,
+      mol/uc: 2.7501}
+  finished: true
+  framework: XANLUV
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.0064948191, cc/g: 14.6193055247, id: '0', mg/g: 536.4157338708,
+      mol/kg: 0.6522406239, mol/uc: 2.5576}
+  finished: true
+  framework: OGEBAF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: GUPBUP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: TUDHUW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: REXDAB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: BEPNIV
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.7683057254, cc/g: 1.3597139732, id: '0', mg/g: 49.8910134667, mol/kg: 0.0606636676,
+      mol/uc: 0.311225}
+  finished: true
+  framework: QUSBIP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.1079599027, cc/g: 3.6777852376, id: '0', mg/g: 134.9463463841,
+      mol/kg: 0.1640844658, mol/uc: 1.211}
+  finished: true
+  framework: MEGFIN
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: SUKYON
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: KAGCAY
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.9392251891, cc/g: 6.1967272793, id: '0', mg/g: 227.372087237, mol/kg: 0.2764671181,
+      mol/uc: 2.0}
+  finished: true
+  framework: FAYQAZ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.9693066372, cc/g: 20.8437082461, id: '0', mg/g: 764.8032963349,
+      mol/kg: 0.9299424824, mol/uc: 7.8517}
+  finished: true
+  framework: HABRAF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.3086598641, cc/g: 21.942839686, id: '0', mg/g: 805.1329410637,
+      mol/kg: 0.9789802547, mol/uc: 3.994225}
+  finished: true
+  framework: OWIZAW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WEHHEY
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: AMILOY
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.9412772477, cc/g: 5.150336622, id: '0', mg/g: 188.9776223708, mol/kg: 0.2297823769,
+      mol/uc: 2.0}
+  finished: true
+  framework: QAGQEW
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: PURQOJ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 12.9066004213, cc/g: 46.2360706823, id: '0', mg/g: 1696.5071114005,
+      mol/kg: 2.0628232672, mol/uc: 18.6061}
+  finished: true
+  framework: GAGZEV
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.4754933994, cc/g: 5.2088071745, id: '0', mg/g: 191.1230405844,
+      mol/kg: 0.2323910418, mol/uc: 2.0}
+  finished: true
+  framework: GOBGAG
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.4606644477, cc/g: 0.5228098989, id: '0', mg/g: 19.1830901335, mol/kg: 0.0233251746,
+      mol/uc: 0.18}
+  finished: true
+  framework: XAKYUE
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: SONVEX
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.4300806397, cc/g: 10.5593864651, id: '0', mg/g: 387.4480241455,
+      mol/kg: 0.4711072495, mol/uc: 1.0}
+  finished: true
+  framework: KOJZEP
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 7.2102075511, cc/g: 13.9442150541, id: '0', mg/g: 511.6451215046,
+      mol/kg: 0.6221214483, mol/uc: 6.5676}
+  finished: true
+  framework: PELRIJ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.2626046011, cc/g: 14.2065136458, id: '0', mg/g: 521.2694563488,
+      mol/kg: 0.6338239055, mol/uc: 0.6511333333}
+  finished: true
+  framework: FUNBOG
+  warnings: []
+- ads:
+    RFP: {cc/cc: 11.5135325274, cc/g: 27.2360581366, id: '0', mg/g: 999.3532242966,
+      mol/kg: 1.2151373073, mol/uc: 5.2152}
+  finished: true
+  framework: PIBNUK
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.0060025712, cc/g: 4.1850726354, id: '0', mg/g: 153.5598804763,
+      mol/kg: 0.1867171038, mol/uc: 0.9635}
+  finished: true
+  framework: FUQJUX
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: HANWAW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: TUDJUY
+  warnings: []
+- ads:
+    RFP: {cc/cc: 13.4612150228, cc/g: 44.0354614024, id: '0', mg/g: 1615.7617271634,
+      mol/kg: 1.9646430378, mol/uc: 59.7176}
+  finished: true
+  framework: SAPBIW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.7886775458, cc/g: 6.8034297816, id: '0', mg/g: 249.6333887399,
+      mol/kg: 0.303535163, mol/uc: 1.0}
+  finished: true
+  framework: VEXYON
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.9077524533, cc/g: 18.6503246479, id: '0', mg/g: 684.3230388795,
+      mol/kg: 0.8320846269, mol/uc: 2.0}
+  finished: true
+  framework: RAYMOV
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: FEWWUB
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 2.7612559698, cc/g: 3.62189299, id: '0', mg/g: 132.8955320723, mol/kg: 0.161590832,
+      mol/uc: 1.9365}
+  finished: true
+  framework: LASDEQ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.1667365123, cc/g: 3.0759626674, id: '0', mg/g: 112.8641007475,
+      mol/kg: 0.1372341392, mol/uc: 2.0}
+  finished: true
+  framework: MIHHAN
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: LEVDIB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.3772164944, cc/g: 9.7658242634, id: '0', mg/g: 358.3304131826,
+      mol/kg: 0.4357024552, mol/uc: 2.0}
+  finished: true
+  framework: OKABEI
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: KUJPAH
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.9024925882, cc/g: 11.7203765741, id: '0', mg/g: 430.0474048253,
+      mol/kg: 0.5229048477, mol/uc: 4.0}
+  finished: true
+  framework: PEWLUA
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: PEPFAT
+  warnings: []
+- ads:
+    RFP: {cc/cc: 1.5259712587, cc/g: 2.0886912291, id: '0', mg/g: 76.6388551481, mol/kg: 0.0931870032,
+      mol/uc: 0.1698375}
+  finished: true
+  framework: MOYYIJ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 10.207799572, cc/g: 26.5028890524, id: '0', mg/g: 972.4515748518,
+      mol/kg: 1.1824269532, mol/uc: 6.0}
+  finished: true
+  framework: EHIJAH
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 8.2194924779, cc/g: 13.4800374694, id: '0', mg/g: 494.6133849907,
+      mol/kg: 0.6014121556, mol/uc: 4.0}
+  finished: true
+  framework: TASZAQ
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.810068942, cc/g: 0.9333454395, id: '0', mg/g: 34.2465774475, mol/kg: 0.0416412264,
+      mol/uc: 0.4423}
+  finished: true
+  framework: PURQUP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 2.4095882448, cc/g: 2.1546846839, id: '0', mg/g: 79.0603058427, mol/kg: 0.0961313025,
+      mol/uc: 0.25}
+  finished: true
+  framework: HIYBUN
+  warnings: []
+- ads:
+    RFP: {cc/cc: 10.7719507695, cc/g: 29.7604538053, id: '0', mg/g: 1091.9790711923,
+      mol/kg: 1.3277632733, mol/uc: 1.452925}
+  finished: true
+  framework: ZELROZ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: MOFLAV
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: SOYWOT
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: XALCAP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 11.611275764, cc/g: 32.5994565773, id: '0', mg/g: 1196.1485717769,
+      mol/kg: 1.4544254417, mol/uc: 4.0}
+  finished: true
+  framework: XAHPIH
+  warnings: []
+- ads:
+    RFP: {cc/cc: 2.0984859053, cc/g: 2.1389278617, id: '0', mg/g: 78.4821520194, mol/kg: 0.0954283116,
+      mol/uc: 0.50005}
+  finished: true
+  framework: PIBPEW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.4521618886, cc/g: 8.7560172063, id: '0', mg/g: 321.2782842236,
+      mol/kg: 0.3906498921, mol/uc: 1.3582}
+  finished: true
+  framework: NIGDIS
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 3.8360769301, cc/g: 4.1963596688, id: '0', mg/g: 153.9740275311,
+      mol/kg: 0.187220675, mol/uc: 0.3333333333}
+  finished: true
+  framework: AMUWUB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: KIJRUS
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.3641672252, cc/g: 11.8477825255, id: '0', mg/g: 434.7222203827,
+      mol/kg: 0.5285890669, mol/uc: 4.0}
+  finished: true
+  framework: SUNLET
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 1.0009686545, cc/g: 1.3599273845, id: '0', mg/g: 49.8988440156, mol/kg: 0.0606731889,
+      mol/uc: 0.3384}
+  finished: true
+  framework: TETZEZ
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: TUDKEJ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.2014461413, cc/g: 3.6082070622, id: '0', mg/g: 132.393364102, mol/kg: 0.1609802341,
+      mol/uc: 1.0}
+  finished: true
+  framework: REBCAE
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: FUTDII
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.6834739972, cc/g: 10.1621463425, id: '0', mg/g: 372.8723761072,
+      mol/kg: 0.4533843731, mol/uc: 3.0}
+  finished: true
+  framework: MUDTEL
+  warnings: []
+- ads:
+    RFP: {cc/cc: 12.6279440077, cc/g: 43.6275711367, id: '0', mg/g: 1600.7953010352,
+      mol/kg: 1.946445005, mol/uc: 17.5564}
+  finished: true
+  framework: HABQUY
+  warnings: []
+- ads:
+    RFP: {cc/cc: 14.520979778, cc/g: 81.271278906, id: '0', mg/g: 2982.0289782836,
+      mol/kg: 3.6259198199, mol/uc: 15.0836}
+  finished: true
+  framework: XAHPUT
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.2215730589, cc/g: 0.2171462985, id: '0', mg/g: 7.9675940059, mol/kg: 0.0096879867,
+      mol/uc: 0.0277125}
+  finished: true
+  framework: CUSDIE
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.9082661541, cc/g: 6.2711641654, id: '0', mg/g: 230.1033467245,
+      mol/kg: 0.2797881213, mol/uc: 1.0}
+  finished: true
+  framework: TADWIG
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: CAXWEF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.8065318025, cc/g: 0.9140604186, id: '0', mg/g: 33.538965952, mol/kg: 0.0407808248,
+      mol/uc: 0.3098}
+  finished: true
+  framework: XALBES
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: SARHAW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: CEHLAD
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.2997763329, cc/g: 21.0408983017, id: '0', mg/g: 772.038650178,
+      mol/kg: 0.9387401208, mol/uc: 5.75515}
+  finished: true
+  framework: HOMXIR
+  warnings: []
+- ads:
+    RFP: {cc/cc: 9.8135571456, cc/g: 26.740916143, id: '0', mg/g: 981.1853328471,
+      mol/kg: 1.1930465369, mol/uc: 1.879575}
+  finished: true
+  framework: XAFFOB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: SONVIB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.4190508423, cc/g: 5.2088071745, id: '0', mg/g: 191.1230405844,
+      mol/kg: 0.2323910418, mol/uc: 2.0}
+  finished: true
+  framework: GIXGOK
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 8.9518577387, cc/g: 14.6471539005, id: '0', mg/g: 537.4375544293,
+      mol/kg: 0.6534830797, mol/uc: 0.625}
+  finished: true
+  framework: RAVVUH
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.8044357296, cc/g: 5.0507082883, id: '0', mg/g: 185.3220310961,
+      mol/kg: 0.2253374566, mol/uc: 1.0}
+  finished: true
+  framework: QOWQUO
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.3282341846, cc/g: 14.5738222125, id: '0', mg/g: 534.7468471891,
+      mol/kg: 0.6502113849, mol/uc: 2.7995}
+  finished: true
+  framework: LIHFAK
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: HIFTOG
+  warnings: []
+- ads:
+    RFP: {cc/cc: 9.0057877236, cc/g: 20.5440370304, id: '0', mg/g: 753.8076744968,
+      mol/kg: 0.9165726448, mol/uc: 4.3865}
+  finished: true
+  framework: WAGYUA
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WOBHIF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: GEGDED
+  warnings: []
+- ads:
+    RFP: {cc/cc: 12.546968259, cc/g: 52.547594624, id: '0', mg/g: 1928.0913505633,
+      mol/kg: 2.3444120408, mol/uc: 27.212}
+  finished: true
+  framework: ADATEG
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: FERHAN
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.481210559, cc/g: 7.9770120571, id: '0', mg/g: 292.6948047902, mol/kg: 0.3558945609,
+      mol/uc: 1.49735}
+  finished: true
+  framework: NENHAQ
+  warnings: []
+- ads: {}
+  finished: false
+  framework: RAVXOD
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: ZECKID
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: CAJQEL
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: FIQCEN
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: GULWIU
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: DOTSOV
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.0134114976, cc/g: 3.4662304059, id: '0', mg/g: 127.1839160763,
+      mol/kg: 0.1546459426, mol/uc: 1.1748}
+  finished: true
+  framework: XALBIW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.5815281609, cc/g: 9.5978486166, id: '0', mg/g: 352.1670027725,
+      mol/kg: 0.4282082182, mol/uc: 2.792}
+  finished: true
+  framework: VURMOL
+  warnings: []
+- ads:
+    RFP: {cc/cc: 2.7583957053, cc/g: 3.8121257287, id: '0', mg/g: 139.8756060566,
+      mol/kg: 0.1700780697, mol/uc: 0.5}
+  finished: true
+  framework: PALTON
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 6.9550737861, cc/g: 12.2241837139, id: '0', mg/g: 448.5332402949,
+      mol/kg: 0.5453822138, mol/uc: 6.4698}
+  finished: true
+  framework: UWAFUU
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.8400338884, cc/g: 16.8583281183, id: '0', mg/g: 618.570590383,
+      mol/kg: 0.752134664, mol/uc: 1.070475}
+  finished: true
+  framework: XEBHOC
+  warnings: []
+- ads:
+    RFP: {cc/cc: 9.0292703321, cc/g: 20.6285077404, id: '0', mg/g: 756.9070979164,
+      mol/kg: 0.9203413073, mol/uc: 6.34165}
+  finished: true
+  framework: UBULIO
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.7384396446, cc/g: 6.8296838197, id: '0', mg/g: 250.5967094034,
+      mol/kg: 0.3047064874, mol/uc: 2.3589}
+  finished: true
+  framework: SIZPUN
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: SICZIP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 9.4779006058, cc/g: 17.6646328869, id: '0', mg/g: 648.1557552519,
+      mol/kg: 0.7881079683, mol/uc: 1.0}
+  finished: true
+  framework: RAVWAO
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 4.3140746431, cc/g: 5.0498912714, id: '0', mg/g: 185.2920528783,
+      mol/kg: 0.2253010054, mol/uc: 0.36629375}
+  finished: true
+  framework: ECAHAT
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.6881104715, cc/g: 9.1465090486, id: '0', mg/g: 335.6063224343,
+      mol/kg: 0.4080716938, mol/uc: 0.37418}
+  finished: true
+  framework: HIFGIO
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: EWIDUK
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WEHJIE
+  warnings: []
+- ads:
+    RFP: {cc/cc: 2.9871937042, cc/g: 3.4354340716, id: '0', mg/g: 126.0539281831,
+      mol/kg: 0.1532719635, mol/uc: 1.1312}
+  finished: true
+  framework: XAKZEP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.4648002559, cc/g: 5.7393330335, id: '0', mg/g: 210.5892469313,
+      mol/kg: 0.2560604642, mol/uc: 2.0}
+  finished: true
+  framework: FAYQUT
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 7.2532886872, cc/g: 16.728309308, id: '0', mg/g: 613.7999030602,
+      mol/kg: 0.7463338721, mol/uc: 5.0}
+  finished: true
+  framework: EFAYIU
+  warnings: []
+- ads:
+    RFP: {cc/cc: 2.3891763515, cc/g: 3.7968767278, id: '0', mg/g: 139.3160853577,
+      mol/kg: 0.1693977352, mol/uc: 1.1453}
+  finished: true
+  framework: ADASIJ
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 8.5532412989, cc/g: 12.3595824887, id: '0', mg/g: 453.5013308138,
+      mol/kg: 0.551423033, mol/uc: 2.3333333333}
+  finished: true
+  framework: XIGFOJ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.8731891015, cc/g: 5.7866333941, id: '0', mg/g: 212.3248052724,
+      mol/kg: 0.2581707707, mol/uc: 2.0}
+  finished: true
+  framework: FAYPUS
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.7836301694, cc/g: 3.9511694867, id: '0', mg/g: 144.9774393377,
+      mol/kg: 0.1762815099, mol/uc: 1.0}
+  finished: true
+  framework: GIQHAQ
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: CAYQUQ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: HIFVUO
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WIZDEP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.1135733446, cc/g: 7.1806793508, id: '0', mg/g: 263.4755376828,
+      mol/kg: 0.3203661605, mol/uc: 0.6666666667}
+  finished: true
+  framework: DOKDEN
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 3.8218223877, cc/g: 6.4248706582, id: '0', mg/g: 235.7431892598,
+      mol/kg: 0.2866457397, mol/uc: 2.0}
+  finished: true
+  framework: RAHNOF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.8562442446, cc/g: 10.468321925, id: '0', mg/g: 384.1066580289,
+      mol/kg: 0.4670444031, mol/uc: 3.9881}
+  finished: true
+  framework: ACUFEK
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: OFERUN
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.0500314008, cc/g: 12.9262858125, id: '0', mg/g: 474.2949710308,
+      mol/kg: 0.5767065137, mol/uc: 1.75}
+  finished: true
+  framework: CAJQIP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.0197703544, cc/g: 8.8922537429, id: '0', mg/g: 326.2771141355,
+      mol/kg: 0.396728088, mol/uc: 2.0}
+  finished: true
+  framework: BIWSIK
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 1.9353660261, cc/g: 2.5426095718, id: '0', mg/g: 93.2941566277, mol/kg: 0.1134385796,
+      mol/uc: 1.62885}
+  finished: true
+  framework: RACHUA
+  warnings: ['WARNING: ENERGY DRIFT (INTERNAL CONSISTENCY ERROR IN THE CODE), THE
+      SIMULATION RESULTS ARE WRONG!!
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: CAXVII
+  warnings: []
+- ads:
+    RFP: {cc/cc: 10.2770855047, cc/g: 26.780012384, id: '0', mg/g: 982.6198632886,
+      mol/kg: 1.1947908165, mol/uc: 2.4493}
+  finished: true
+  framework: RAVWOC
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: YARGAB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.1607503769, cc/g: 6.5868091972, id: '0', mg/g: 241.6850843845,
+      mol/kg: 0.293870631, mol/uc: 2.0}
+  finished: true
+  framework: ADASOP
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 7.7434720533, cc/g: 14.3783714035, id: '0', mg/g: 527.5753102799,
+      mol/kg: 0.641491343, mol/uc: 2.0}
+  finished: true
+  framework: HOHMIB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.529143892, cc/g: 0.6593305394, id: '0', mg/g: 24.1923444678, mol/kg: 0.0294160459,
+      mol/uc: 0.125}
+  finished: true
+  framework: TISHAF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.7613494862, cc/g: 19.0834631306, id: '0', mg/g: 700.2158797988,
+      mol/kg: 0.8514091095, mol/uc: 1.74995}
+  finished: true
+  framework: VAGMIB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: TUDJIM
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.7361275107, cc/g: 11.3272318316, id: '0', mg/g: 415.6220256453,
+      mol/kg: 0.5053646867, mol/uc: 1.0}
+  finished: true
+  framework: KOJZIT
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: CAXVUU
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.8249740582, cc/g: 22.1078456282, id: '0', mg/g: 811.1873862222,
+      mol/kg: 0.9863419983, mol/uc: 1.8423}
+  finished: true
+  framework: RICBEM
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: FECXES
+  warnings: []
+- ads:
+    RFP: {cc/cc: 10.7606005722, cc/g: 31.903798022, id: '0', mg/g: 1170.6232693698,
+      mol/kg: 1.4233886206, mol/uc: 13.2437}
+  finished: true
+  framework: ADATAC
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: QEPZUH
+  warnings: []
+- ads:
+    RFP: {cc/cc: 1.9810678608, cc/g: 3.2122034203, id: '0', mg/g: 117.8630853662,
+      mol/kg: 0.1433125232, mol/uc: 1.421}
+  finished: true
+  framework: ICAREL
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.9883982769, cc/g: 9.4524319845, id: '0', mg/g: 346.8313341733,
+      mol/kg: 0.421720452, mol/uc: 1.5}
+  finished: true
+  framework: NIGDEO
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 8.3023438376, cc/g: 18.2964372633, id: '0', mg/g: 671.3381018864,
+      mol/kg: 0.8162959338, mol/uc: 2.8168}
+  finished: true
+  framework: VEWKUF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.7123194874, cc/g: 21.3815889815, id: '0', mg/g: 784.5393699092,
+      mol/kg: 0.9539400427, mol/uc: 4.9655}
+  finished: true
+  framework: CAVPUM
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: NUTQEZ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: IVETOT
+  warnings: []
+- ads:
+    RFP: {cc/cc: 9.2677647858, cc/g: 17.239435395, id: '0', mg/g: 632.5542874312,
+      mol/kg: 0.7691377732, mol/uc: 8.2494}
+  finished: true
+  framework: VETTIZ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.5336727541, cc/g: 11.5517383549, id: '0', mg/g: 423.8596831184,
+      mol/kg: 0.51538105, mol/uc: 6.1139}
+  finished: true
+  framework: UWAFOO
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.8570334796, cc/g: 7.6553793259, id: '0', mg/g: 280.8933647531,
+      mol/kg: 0.3415449098, mol/uc: 2.93285}
+  finished: true
+  framework: IYIHUU
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.7616236142, cc/g: 1.1951400537, id: '0', mg/g: 43.8524202074, mol/kg: 0.0533211987,
+      mol/uc: 0.199725}
+  finished: true
+  framework: MOXPIZ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.4981978774, cc/g: 4.4771438954, id: '0', mg/g: 164.2766425679,
+      mol/kg: 0.1997478692, mol/uc: 1.2922}
+  finished: true
+  framework: ZINDAD
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: AWEJIW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.3887935569, cc/g: 5.7486742594, id: '0', mg/g: 210.9319978604,
+      mol/kg: 0.2564772231, mol/uc: 5.3085}
+  finished: true
+  framework: VEVJUD
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.3891531062, cc/g: 5.860188287, id: '0', mg/g: 215.0237024126, mol/kg: 0.2614524238,
+      mol/uc: 2.0}
+  finished: true
+  framework: REWNEO
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 6.5341512936, cc/g: 10.5322789611, id: '0', mg/g: 386.4533878653,
+      mol/kg: 0.4698978477, mol/uc: 3.0}
+  finished: true
+  framework: TASYUJ
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 7.8698170284, cc/g: 14.9516986781, id: '0', mg/g: 548.6119983933,
+      mol/kg: 0.6670703514, mol/uc: 3.0}
+  finished: true
+  framework: OLOGEC
+  warnings: []
+- ads:
+    RFP: {cc/cc: 10.9899492984, cc/g: 29.4301798014, id: '0', mg/g: 1079.8605631067,
+      mol/kg: 1.3130280916, mol/uc: 3.0}
+  finished: true
+  framework: EDUVOO
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 9.2295195504, cc/g: 22.6676268175, id: '0', mg/g: 831.7270375054,
+      mol/kg: 1.0113166478, mol/uc: 9.0}
+  finished: true
+  framework: LEHXUT
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.1988554959, cc/g: 18.488160694, id: '0', mg/g: 678.3728727656,
+      mol/kg: 0.8248496787, mol/uc: 3.0}
+  finished: true
+  framework: ANUGEW
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 5.6545256506, cc/g: 6.5080070895, id: '0', mg/g: 238.7936549426,
+      mol/kg: 0.2903548734, mol/uc: 0.95605}
+  finished: true
+  framework: GAMXAV
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.8179002592, cc/g: 18.9162327712, id: '0', mg/g: 694.0798156868,
+      mol/kg: 0.8439481234, mol/uc: 4.3741}
+  finished: true
+  framework: ICAQOU
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: LUYHAP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 10.0096521644, cc/g: 34.8521824844, id: '0', mg/g: 1278.8062341817,
+      mol/kg: 1.5549308555, mol/uc: 1.651275}
+  finished: true
+  framework: XUKYEI
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.3602171675, cc/g: 13.6932420061, id: '0', mg/g: 502.436346745,
+      mol/kg: 0.6109242805, mol/uc: 1.9047}
+  finished: true
+  framework: ROGMEG
+  warnings: []
+- ads:
+    RFP: {cc/cc: 8.9780092934, cc/g: 19.3040499514, id: '0', mg/g: 708.3097144306,
+      mol/kg: 0.8612505951, mol/uc: 3.6873}
+  finished: true
+  framework: FAHPOV
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.96201043, cc/g: 4.0062033335, id: '0', mg/g: 146.9967569626, mol/kg: 0.1787368461,
+      mol/uc: 1.0}
+  finished: true
+  framework: AMIMAL
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: KEFBEE
+  warnings: []
+- ads:
+    RFP: {cc/cc: 1.0840678958, cc/g: 1.1574061342, id: '0', mg/g: 42.4678764523, mol/kg: 0.051637699,
+      mol/uc: 0.1024}
+  finished: true
+  framework: LECGIL
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.5165632387, cc/g: 9.9788185472, id: '0', mg/g: 366.1456602809,
+      mol/kg: 0.4452051996, mol/uc: 0.91685}
+  finished: true
+  framework: BICDAU
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.2816686249, cc/g: 13.0164355826, id: '0', mg/g: 477.6027721439,
+      mol/kg: 0.5807285476, mol/uc: 1.465125}
+  finished: true
+  framework: UPOZAB
+  warnings: []
+- ads:
+    RFP: {cc/cc: 1.8515062033, cc/g: 2.6145815672, id: '0', mg/g: 95.9349736391, mol/kg: 0.1166496117,
+      mol/uc: 0.46485}
+  finished: true
+  framework: SERCEZ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WEHJEA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: UYAPOA
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.7523551967, cc/g: 4.746318444, id: '0', mg/g: 174.1532719872, mol/kg: 0.2117570973,
+      mol/uc: 0.5}
+  finished: true
+  framework: VUQJUN
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: TUDJEI
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: IGOCOX
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: ZECKOJ
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WEHHOI
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: XITYOP
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: VEHKEA
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: CAVMOD
+  warnings: []
+- ads:
+    RFP: {cc/cc: 9.731719008, cc/g: 24.0241992238, id: '0', mg/g: 881.5027796994,
+      mol/kg: 1.0718401543, mol/uc: 5.5792}
+  finished: true
+  framework: IYOWID
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: TUDJAE
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: GAHWIX
+  warnings: []
+- ads:
+    RFP: {cc/cc: 7.5191655619, cc/g: 16.7551733214, id: '0', mg/g: 614.7856051136,
+      mol/kg: 0.7475324106, mol/uc: 2.94745}
+  finished: true
+  framework: YUGZIK
+  warnings: []
+- ads:
+    RFP: {cc/cc: 13.0506579229, cc/g: 58.7539430397, id: '0', mg/g: 2155.8164592856,
+      mol/kg: 2.621308406, mol/uc: 28.4308}
+  finished: true
+  framework: SEMNIJ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 6.7474832524, cc/g: 9.6636361168, id: '0', mg/g: 354.5808965204,
+      mol/kg: 0.4311433289, mol/uc: 2.0}
+  finished: true
+  framework: YOZQAG
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 13.7743160302, cc/g: 58.0637257469, id: '0', mg/g: 2130.4908092396,
+      mol/kg: 2.590514347, mol/uc: 24.8592}
+  finished: true
+  framework: SEMNEF
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: YEKQOW
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 4.5498111044, cc/g: 8.3724441485, id: '0', mg/g: 307.2041120309,
+      mol/kg: 0.373536772, mol/uc: 1.0}
+  finished: true
+  framework: KEQDER
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 3.3417707769, cc/g: 4.1241353823, id: '0', mg/g: 151.3239533815,
+      mol/kg: 0.1839983869, mol/uc: 1.8376}
+  finished: true
+  framework: SEWCED
+  warnings: []
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WEHJAW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 4.4810563593, cc/g: 5.3186652213, id: '0', mg/g: 195.1539834139,
+      mol/kg: 0.2372923609, mol/uc: 1.0}
+  finished: true
+  framework: RULXUS
+  warnings: []
+- ads:
+    RFP: {cc/cc: 9.5658241654, cc/g: 28.6359885804, id: '0', mg/g: 1050.7198719902,
+      mol/kg: 1.2775952336, mol/uc: 7.8333}
+  finished: true
+  framework: LEJCEK
+  warnings: []
+- ads:
+    RFP: {cc/cc: 13.5056181222, cc/g: 48.3047920205, id: '0', mg/g: 1772.4132256068,
+      mol/kg: 2.1551193133, mol/uc: 9.2013}
+  finished: true
+  framework: NIBHOW
+  warnings: []
+- ads:
+    RFP: {cc/cc: 5.9527322291, cc/g: 11.9313919497, id: '0', mg/g: 437.7900412575,
+      mol/kg: 0.5323193031, mol/uc: 2.0}
+  finished: true
+  framework: NAYZOE
+  warnings: []
+- ads:
+    RFP: {cc/cc: 2.7510143242, cc/g: 3.4888547336, id: '0', mg/g: 128.0140543698,
+      mol/kg: 0.1556553274, mol/uc: 1.0}
+  finished: true
+  framework: XALXUF
+  warnings: ['WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ', 'WARNING: INAPPROPRIATE NUMBER OF UNIT CELLS USED
+
+      ']
+- ads:
+    RFP: {cc/cc: 0.0, cc/g: 0.0, id: '0', mg/g: 0.0, mol/kg: 0.0, mol/uc: 0.0}
+  finished: true
+  framework: WOLRIZ
+  warnings: []
+- ads:
+    RFP: {cc/cc: 3.1974340775, cc/g: 2.7685718245, id: '0', mg/g: 101.5852281437,
+      mol/kg: 0.1235198903, mol/uc: 2.0}
+  finished: true
+  framework: GITVIP
+  warnings: []
