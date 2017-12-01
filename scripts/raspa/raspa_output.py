@@ -19,7 +19,7 @@ def parse_output(data_file, verbose=False, save=False, loading='absolute'):
     with open(data_file) as ads_data:
         data_lines = ads_data.readlines()
 
-    results = dict(ads={}, finished=False, warnings=[],
+    results = dict(ads={}, err={}, finished=False, warnings=[],
                    framework=os.path.basename(data_file).split('_')[1])
     for i, line in enumerate(data_lines):
         if 'Number of molecules:' in line:
@@ -41,18 +41,30 @@ def parse_output(data_file, verbose=False, save=False, loading='absolute'):
             if 'Component' in line:
                 comp_name = line.split()[2].replace('[', '').replace(']', '')
                 results['ads'][comp_name] = {'id': line.split()[1]}
+                results['err'][comp_name] = {'id': line.split()[1]}
             if 'Average loading %s [molecules/unit cell]' % loading in line:
                 results['ads'][comp_name]['mol/uc'] = float(ads_lines[i].split()[5])
+                results['err'][comp_name]['mol/uc'] = float(ads_lines[i].split()[7])
+
                 results['ads'][comp_name]['mol/kg'] = float(ads_lines[i + 1].split()[5])
+                results['err'][comp_name]['mol/kg'] = float(ads_lines[i + 1].split()[7])
+
                 results['ads'][comp_name]['mg/g'] = float(ads_lines[i + 2].split()[5])
+                results['err'][comp_name]['mg/g'] = float(ads_lines[i + 2].split()[7])
+
                 results['ads'][comp_name]['cc/g'] = float(ads_lines[i + 3].split()[6])
+                results['err'][comp_name]['cc/g'] = float(ads_lines[i + 3].split()[8])
+
                 results['ads'][comp_name]['cc/cc'] = float(ads_lines[i + 4].split()[6])
+                results['err'][comp_name]['cc/cc'] = float(ads_lines[i + 4].split()[8])
         if verbose:
             units = ['mol/uc', 'mg/g', 'cc/cc']
             for component in results['ads']:
-                print("%s\n%-15s\t%s\n%s" % ('=' * 30, '%s [%s]' % (component, results['ads'][component]['id']), loading, '-' * 30))
+                print('=' * 30)
+                print("%-15s\t%s" % ('%s [%s]' % (component, results['ads'][component]['id']), loading))
+                print('-' * 30)
                 for u in units:
-                    print('%s\t\t%8.3f' % (u, results['ads'][component][u]))
+                    print('%s\t\t%8.3f +/- %5.2f' % (u, results['ads'][component][u], results['err'][component][u]))
             print('=' * 30)
 
         if save:
@@ -61,9 +73,7 @@ def parse_output(data_file, verbose=False, save=False, loading='absolute'):
                 yaml.dump(results, rads)
     else:
         print('Simulation not finished!') if verbose else None
-
     return results
-
 
 if __name__ == "__main__":
     ads_path = glob.glob(os.path.join(sys.argv[1], 'Output', 'System_0', '*.data'))[0]
