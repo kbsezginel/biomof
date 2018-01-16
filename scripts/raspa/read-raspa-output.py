@@ -2,6 +2,8 @@
 Read RASPA output file for gas adsorption simulations.
 - Can read mixture simulations
 - Can read unfinished simulation data (reads the last cycle)
+
+ >>> python read-raspa-output.py Output/System_0/output_IRMOF-1_1.1.1_298.000000_1e+07.data
 """
 import os
 import sys

@@ -1,5 +1,5 @@
 """
-Read RASPA output file for gas adsorption simulations
+Read RASPA output file for gas adsorption simulations.
 """
 import os
 import sys
