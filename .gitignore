@@ -9,6 +9,7 @@ scripts/conformer-search/DMOG-conformers-SOAP/
 scripts/conformer-search/DMOG-conformers-RASPA/
 scripts/conformer-search/DMOG-conformers/
 scripts/conformer-search/source
+scripts/conformer-search/drugs
 scripts/conformer-search/log.yml
 scripts/conformer-search/obconf.*
 
