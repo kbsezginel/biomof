@@ -1,3 +1,17 @@
 theme: jekyll-theme-minimal
 title:  BioMOF
 description: Drug delivery using Metal-Organic Frameworks
+show_downloads: True
+navigation:
+  - title: KBS - Home
+    url: http://kbsezginel.github.io
+  - title: BioMOF
+    url: /
+  - title: Drugs
+    url: drugs
+  - title: RASPA
+    url: raspa
+  - title: Conformer Search
+    url: conformer-search
+  - title: Results
+    url: results
