@@ -17,17 +17,23 @@ Pyrazinamide is a medication used to treat tuberculosis.[2] For active tuberculo
 ## [Dimethyloxalylglycine - DMOG][dmog-pubchem]
 Dimethyloxalylglycine is a cancer treatment drug, proposed to inhibit O<sub>2</sub> consumption in cancer cell lines HCT116 and PC12, well before activation of HIF pathways.
 
+## [U6CL98Glp4](https://pubchem.ncbi.nlm.nih.gov/compound/cb-839#section=3D-Conformer)
+
+## [Verteporfin](https://en.wikipedia.org/wiki/Verteporfin)
+
 ## Methods
 
 All drug molecules are optimized using [ORCA][orca] with B3LYP basis set. Both experimental and ideal configurations for drugs have been initially considered when available. Eventually, the minimum energy configuration was selected for all drug molecules. Here the sources for initial structure and selected configuration have been provided:
 
-|Drug|Initial Structure|Source      |
-|:---|:----------------|:-----------|
-|ETB |CCDC: [GEJHOT]   |Experimental|
-|NIZ |RSCB: [NIZ]      |Ideal       |
-|RFP |RSBP: [RFP]      |Experimental|
-|PZA |RSCB: [PZA]      |Experimental|
-|DMOG|Chemdraw         |Ideal       |
+|Drug       |Initial Structure     |Source      |
+|:----------|:---------------------|:-----------|
+|ETB        |CCDC: [GEJHOT]        |Experimental|
+|NIZ        |RSCB: [NIZ]           |Ideal       |
+|RFP        |RSBP: [RFP]           |Experimental|
+|PZA        |RSCB: [PZA]           |Experimental|
+|DMOG       |Chemdraw              |Ideal       |
+|U6CL98Glp4 |PubChem: [71577426]   |Ideal       |
+|Verteporfin|Chemdraw              |Ideal       |
 
 ## Conformers
 
@@ -45,3 +51,5 @@ To test various configurations of drug molecules, different conformers are gener
 [NIZ]: https://www4.rcsb.org/ligand/NIZ
 [PZA]: https://www4.rcsb.org/ligand/PZA
 [RFP]: https://www4.rcsb.org/ligand/RFP
+[21106402]: http://www.chemspider.com/Chemical-Structure.21106402.html
+[Verteporfin-71577426]: https://pubchem.ncbi.nlm.nih.gov/compound/cb-839#section=3D-Conformer
