@@ -25,15 +25,15 @@ Dimethyloxalylglycine is a cancer treatment drug, proposed to inhibit O<sub>2</s
 
 All drug molecules are optimized using [ORCA][orca] with B3LYP basis set. Both experimental and ideal configurations for drugs have been initially considered when available. Eventually, the minimum energy configuration was selected for all drug molecules. Here the sources for initial structure and selected configuration have been provided:
 
-|Drug       |Initial Structure     |Source      |
-|:----------|:---------------------|:-----------|
-|ETB        |CCDC: [GEJHOT]        |Experimental|
-|NIZ        |RSCB: [NIZ]           |Ideal       |
-|RFP        |RSBP: [RFP]           |Experimental|
-|PZA        |RSCB: [PZA]           |Experimental|
-|DMOG       |Chemdraw              |Ideal       |
-|U6CL98Glp4 |PubChem: [71577426]   |Ideal       |
-|Verteporfin|Chemdraw              |Ideal       |
+|Drug       |Initial Structure       |Source      |
+|:----------|:-----------------------|:-----------|
+|ETB        |CCDC: [GEJHOT]          |Experimental|
+|NIZ        |RSCB: [NIZ]             |Ideal       |
+|RFP        |RSBP: [RFP]             |Experimental|
+|PZA        |RSCB: [PZA]             |Experimental|
+|DMOG       |Chemdraw                |Ideal       |
+|U6CL98Glp4 |PubChem: [71577426]     |Ideal       |
+|Verteporfin|Wikipedia [verteporfin] |Ideal       |
 
 ## Conformers
 
@@ -51,5 +51,6 @@ To test various configurations of drug molecules, different conformers are gener
 [NIZ]: https://www4.rcsb.org/ligand/NIZ
 [PZA]: https://www4.rcsb.org/ligand/PZA
 [RFP]: https://www4.rcsb.org/ligand/RFP
-[21106402]: http://www.chemspider.com/Chemical-Structure.21106402.html
-[Verteporfin-71577426]: https://pubchem.ncbi.nlm.nih.gov/compound/cb-839#section=3D-Conformer
+[Verteporfin-21106402]: http://www.chemspider.com/Chemical-Structure.21106402.html
+[verteporfin]: https://chemapps.stolaf.edu/jmol/jmol.php?model=COC%28%3DO%29%5BC%40%40H%5D2C%28%3DC%5CC%3DC3%5Cc1cc6nc%28cc5nc%28cc4nc%28cc%28n1%29%5BC%40%5D23C%29C%28%2FC%29%3DC4%2FCCC%28%3DO%29OC%29c%28CCC%28O%29%3DO%29c5C%29C%28%2FC%3DC%29%3DC6%2FC%29%2FC%28%3DO%29OC
+[71577426]: https://pubchem.ncbi.nlm.nih.gov/compound/cb-839#section=3D-Conformer
