@@ -1,7 +1,5 @@
 # Drugs
 
-Currently 5 drugs molecules are provided here, focusing on mainly medication primarily used to treat tuberclosis.
-
 ## [Ethambutol - ETB][ethambutol-wiki]
 Ethambutol (EMB, E) is a medication primarily used to treat tuberculosis. It is usually given in combination with other tuberculosis medications, such as isoniazid, rifampicin and pyrazinamide.
 
@@ -37,7 +35,7 @@ All drug molecules are optimized using [ORCA][orca] with B3LYP basis set. Both e
 
 ## Conformers
 
-To test various configurations of drug molecules, different conformers are generated and drug uptake is caslculated for each conformer.
+To test various configurations of drug molecules, different conformers are generated and drug uptake is calculated for each conformer.
 [Conformer generation and drug uptake calculation tutorial.](https://kbsezginel.github.io/research/conformers-bokeh/)
 
 ------------------------------------------------------------------------

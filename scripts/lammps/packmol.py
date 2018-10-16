@@ -10,16 +10,14 @@ class Packmol:
     """
     Wrapper class for the packmol molecule packer program
     """
-    def __init__(self, options={}, structures=[]):
+    def __init__(self):
         """
         packmol
 
         Args:
         - options (dict): Options to be used in input file
-        - structure (list): List of structures (dict)
         """
         self.clear()
-        self.structures = structures
         # Default options
         self.options = {'command_line': 'packmol',
                         'seed': None,
@@ -28,18 +26,10 @@ class Packmol:
                         'output': 'packed.xyz',
                         'input': 'packmol.inp'
                         }
-        self.set_options(options)
 
     def clear(self):
         self.structures = []
         self.options = {}
-
-    def set_options(self, options):
-        """Update packmol option values.
-
-        Use keyword list to change the value of packmol options."""
-        for key, value in options.items():
-            self.options[key] = value
 
     def add_structure(self, structure):
         """Add one or more structure group to be packed by packmol.
@@ -87,8 +77,6 @@ class Packmol:
         subprocess.call('./%s' % self.options['command_line'], stdin=input_file, stdout=self.output_file, cwd=run_dir)
         self.output_file.close()
         input_file.close()
-        self.clear()
-
 ####################################################################################################
 
     # def _prepare_input_file (self) :

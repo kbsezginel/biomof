@@ -21,3 +21,24 @@ Process Summary
 
 Initially I started by separating IRMOF-1 into linkers and nodes.
 I separated the Zn<sub>4</sub>O nodes and C<sub>8</sub>H<sub>4</sub>O<sub>4</sub> linkers by identifying their atom indices in a 111 packed IRMOF-1 xyz file.
+
+
+Questions
+---------
+
+#### Degradation
+I am not sure what is the best way to simulate degradation. I believe separating linkers and nodes
+from the coordination bonds is a relatively good approach as those are likely to be the weaker bonds
+however currently for the linkers at the boundaries I need to delete half of a linker that belongs
+to one of the unit cells.
+
+Another issue is with the packing of linkers and nodes. I am packing the degraded linkers and nodes
+throughout the unit cell however I am not sure if those species would float like that individually.
+
+Also, the degradation might happen in groups as well. Some part of the MOF can just break and
+collectively diffuse together. Like a single unit cell can separate from multiple cells.
+
+#### Packing drug molecues
+
+
+#### Calculating diffusivity
